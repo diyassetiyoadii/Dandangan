@@ -1,0 +1,2 @@
+## Dashboard
+[Lihat dashboard Looker Studio](https://datastudio.google.com/reporting/50e4cd64-10e6-4149-bdaa-f29110a97456)
